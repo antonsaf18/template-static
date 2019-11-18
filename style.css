@@ -166,6 +166,10 @@ body {
 .slider__rating-label {
   margin-right: 10px;
 }
+.slider__href {
+  text-decoration: none;
+  color: #fff;
+}
 .star {
   display: inline-block;
   width: 12px;
