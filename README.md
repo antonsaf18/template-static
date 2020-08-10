@@ -9,3 +9,5 @@
 -  CSS;
 -  jquery.
 ```
+
+<img style="width: 1150px" src="demo.gif" alt="">
